@@ -10,3 +10,4 @@ check this out!!!
 
 [출시앱_검증_동아리](https://github.com/bmong4mong0318/for_wooteco/blob/main/'%EC%9D%BC%EB%8B%A8%EA%B0%80%EC%9E%90'%20OT.pdf)
 
+![치열한하루 앱 분석표](https://user-images.githubusercontent.com/96916551/197405485-7f229cd1-4b05-4ed5-b46f-e6c73be6642b.JPG)
