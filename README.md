@@ -2,7 +2,7 @@
 
 check this out!!
 
-**42 서울(2022.07.04.~)**
+**42 서울(22.07.04.~)**
 
 [**_개인공부기록_Notion CS Library_**](https://www.notion.so/CS-Library-11f93c9a0058423abc450348b9df9ce0)
 
