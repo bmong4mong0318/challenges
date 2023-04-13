@@ -1,9 +1,5 @@
 # challenges
 
-check this out!!
-
-**42 서울(22.07.04.~)**
-
 [**_!!! 개인 프로픨_Notion Page !!!_**](https://endurable-suede-010.notion.site/dayun-s-paper-d72b1d8392654c3ca20961f13b6253d4)
 
 [**_개인공부기록_Notion CS Library_**](https://www.notion.so/CS-Library-11f93c9a0058423abc450348b9df9ce0)
